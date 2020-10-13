@@ -1,5 +1,3 @@
-//Yehonatan Hen, 207630112
-//Rotem Librati,307903732 
 
 package SCE;
 import java.util.Scanner;
